@@ -19,7 +19,7 @@ Neste experimento faremos  com que o LED incorporado e dois LEDs pisquem alterna
 
 ## Projeto no Tinkercad
 
-https://www.tinkercad.com/things/ly8Nf2KDtv4
+https://www.tinkercad.com/things/7AvnP0Dcayw
 
 ## Experimentar e pesquisar:
 
