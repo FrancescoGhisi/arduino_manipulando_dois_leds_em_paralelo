@@ -15,7 +15,7 @@ Neste experimento faremos  com que o LED incorporado e dois LEDs pisquem alterna
 
 ## Esquema do projeto
 
-![Esquema do projeto](Arduino_manipulando_dois_LEDs_em_paralelo)
+![Esquema do projeto](Arduino_manipulando_dois_LEDs_em_paralelo.png)
 
 ## Projeto no Tinkercad
 
